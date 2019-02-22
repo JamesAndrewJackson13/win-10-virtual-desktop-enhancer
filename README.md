@@ -1,6 +1,12 @@
-# Windows 10 Virtual Desktop Enhancer
+# Windows 10 Virtual Desktop Enhancer (FORK)
 
-**Warning:** I am officially no longer maintaining this project due to lack of time and interest. Thanks for using it and for all of your work towards helping me improve it. -sdias
+## Preface
+This is a fork of the initial [win-10-virtual-desktop-enhancer](https://github.com/sdias/win-10-virtual-desktop-enhancer) code, made on Feb. 22 2019. Reason for the fork was due to the initial project being archived at the time with a number of pull requests un-merged. This fork is likely to not be actively maintained; however I will do my best to list all merges/changes from the base version. If by chance someone stumbles on this, I hope it proves useful. 
+
+### Changes from Base Repo
+ - []
+
+---
 
 ## Introduction
 
